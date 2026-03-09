@@ -31,9 +31,9 @@ action_movies_1990s.head()
 short_movie_count = 0
 
 # Counter iteration on variable
-# Iterate over the labels and rows of the DataFrame and check if the duration is less than 90, if it is, add 1 to the counter, if it isn't, the counter should remain the same
+# Iterate over the labels and rows of the DataFrame and check if the duration is less than 99, if it is, add 1 to the counter, if it isn't, the counter should remain the same
 for label, row in action_movies_1990s.iterrows() :
-    if row["duration"] < 90 :
+    if row["duration"] < 99 :
         short_movie_count = short_movie_count + 1
     else:
         short_movie_count = short_movie_count
