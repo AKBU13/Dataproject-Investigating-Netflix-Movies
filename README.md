@@ -1,4 +1,4 @@
-#Investigating Netflix Movies
+# Investigating Netflix Movies
 
 Netflix! What started in 1997 as a DVD rental service has since exploded into one of the largest entertainment and media companies.
 
@@ -8,7 +8,7 @@ You work for a production company that specializes in nostalgic styles. You want
 
 You have been supplied with the dataset netflix_data.csv, along with the following table detailing the column names and descriptions. Feel free to experiment further after submitting!
 
-The data
+## The data
 netflix_data.csv
 Column	Description
 show_id	The ID of the show
