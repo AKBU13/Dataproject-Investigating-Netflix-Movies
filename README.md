@@ -26,7 +26,11 @@ You have been supplied with the dataset netflix_data.csv, along with the followi
 * country	Country of origin;
 
 * date_added	Date added to Netflix;
+  
 * release_year	Year of Netflix release;
+  
 * duration	Duration of the show in minutes;
+  
 * description	Description of the show;
-genre	Show genre
+  
+* genre	Show genre
